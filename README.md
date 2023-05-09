@@ -12,6 +12,7 @@ This paper makes three contributions:
 
 # Qualitative Evaluation
 The SAM test results on the indoor and outdoor datasets are shown in the two folders above[VT-840-5i test results] [Tokyo Multi-Spectral-4i test results] , and the following is only partially shown:
+https://pan.baidu.com/s/1xL6RV7IgfZpZv2Gl-C2vmQ?pwd=znsk 
 
 # A novel bimodal FSS benchmark --- VT-840-5i
 It includes 840 pairs of aligned RGBT image pairs, with 390 pairs from VT821, VT1000, and VT5000, and the remaining 450 pairs from VI-RGBT1500. The dataset comprises 20 object categories, and the image size is standardized at 640×480. The dataset includes four different illumination conditions, including bright illumination, uneven illumination, weak illumination and dark illumination, to fully demonstrate the superiority of bimodal image fusion. Moreover, the dataset includes image clutter and defocus, as shown in Fig. 1. Scenes cover as many indoor environments as possible, including schools, shopping malls and families (e.g., living room, bedroom, kitchen, bathroom and study, etc.) 
