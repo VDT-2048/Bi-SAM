@@ -3,6 +3,10 @@ This repository contains a collection of research papers and benchmarking result
 •	Paper link: waiting
 •	This project is under construction. If you would like to contribute to this repository, please submit a pull request.
 
+# Paper
+[2023-MFS enhanced SAM Achieving superior performance in bimodal few-shot segmentation.pdf](https://github.com/VDT-2048/Bi-SAM/files/13700346/2023-MFS.enhanced.SAM.Achieving.superior.performance.in.bimodal.few-shot.segmentation.pdf)
+
+
 # FSS Background
 Different from the general foundation models, which require huge data, few-shot segmentation (FSS) can quickly model and distinguish different categories with only a couple of samples. It can segment new categories from the background without fine-tuning, thus bridging the gap between human intelligence and AGI. This is very helpful for scenarios with insufficient data and expensive marking.
 This paper makes three contributions:
